@@ -9,3 +9,5 @@ const close = document.querySelector('.close');
 close.onclick = function (){
     fon.style.display = 'none';
 };
+
+// Вроде так должно было быть
