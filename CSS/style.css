@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.black_fon {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    position: fixed;
+    opacity: 0.8;
+    display: none;
+}
+
+.zakaz {
+    background-color: white;
+    width: 40%;
+    height: 40vh;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.zakaz p {
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 10%;
+}
+
+.close {
+    width: 5%;
+    display: block;
+    margin-left: 95%;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+}
